@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/ai/(.*)",
-      "destination": "https://giddly-event-backend.onrender.com/api/ai/$1" 
+      "destination": "/api/ai/$1"
     }
   ]
 }
